@@ -3,7 +3,7 @@
 ![Screenshot](Weather_Analysis/6.North_Temp_vs_Lat.png)
 ![Screenshot](Weather_Analysis/7.South_Temp_vs_Lat.png)
 
-Leveraging a [Python library](https://pypi.python.org/pypi/citipy) that generates cities based on latitude and longitude, and the [OpenWeatherMap API](https://openweathermap.org/api), I have creted a representative model of weather accross world cities.
+Leveraging a [Python library](https://pypi.python.org/pypi/citipy) that generates cities based on latitude and longitude, and the [OpenWeatherMap API](https://openweathermap.org/api), I have created a representative model of weather accross world cities.
 
 My report includes a series of scatter plots showcasing the following relationships: 
 
